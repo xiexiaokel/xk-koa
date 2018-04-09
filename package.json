@@ -1,0 +1,30 @@
+{
+  "name": "xk-koa",
+  "version": "1.0.0",
+  "description": "a frame\u0016work base on Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xiexiaokel/xk-koa.git"
+  },
+  "keywords": [
+    "framework",
+    "xk-koa"
+  ],
+  "author": "xxk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiexiaokel/xk-koa/issues"
+  },
+  "homepage": "https://github.com/xiexiaokel/xk-koa#readme",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2"
+  },
+  "devDependencies": {}
+}
